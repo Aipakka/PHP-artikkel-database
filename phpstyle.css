@@ -1,0 +1,14 @@
+head{
+    font-size: 2rem;
+}
+body {
+    background-color:darkslategray;  /*velger bakgrunnsfarge*/
+    color:white; /*velger fargen til teksten*/
+    text-align: left; /* får teksten til å midtstille seg*/
+    font-size: 1rem; /* velger skriftstørrelsen*/
+    font-family: Arial, Helvetica, sans-serif; /* velger fonten til teksten*/
+    background-image: url("phpbgreal.png");
+    background-repeat: no-repeat;
+    background-size: 115%;
+
+}
